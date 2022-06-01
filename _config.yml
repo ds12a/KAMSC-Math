@@ -1,6 +1,6 @@
 baseurl: '/KAMSC-Math/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'KAMSC Math'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
