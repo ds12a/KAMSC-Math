@@ -3,17 +3,19 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
-    {% if site.data.contact.email %}
+    {% if site.data.contact.email1 %}
     <div class="call-email"><strong>Email: </strong>
       <a href="mailto:{{ .site.data.contact.email1 }}">
         {{ site.data.contact.email1 }}
       </a>
+    {% endif %}
+    {% if site.data.contact.email2 %}
       &nbsp;or&nbsp;
       <a href="mailto:{{ .site.data.contact.email2 }}">
         {{ site.data.contact.email2 }}
       </a>
     </div>
-    {% endif %}
+   {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
