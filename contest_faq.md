@@ -1,6 +1,6 @@
 ---
 title: Contest FAQ
-layout: page
+layout: contest_faq
 description: Contest FAQ
 ---
 
