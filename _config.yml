@@ -13,6 +13,8 @@ logo:
 collections:
   services:
     output: true
+  announcement:
+    output: true
   team:
     output: true
 
