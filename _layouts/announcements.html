@@ -26,9 +26,9 @@ bodyClass: "page-announcements"
       <div class="announcement announcement-summary">
         <div class="announcement-content">
           <h2 class="announcement-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            <a href="{{ announcements.url | relative_url }}">{{ announcements.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ announcements.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>
