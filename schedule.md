@@ -1,7 +1,7 @@
 ---
-title: Competition Math Info
+title: Schedule
 layout: page
-description: Information About Competition Math
+description: Schedule for the Math Team
 bodyClass: page-about
 ---
 
