@@ -1,7 +1,7 @@
 ---
-title: About
+title: Competition Math Info
 layout: page
-description: About
+description: Information About Competition Math
 bodyClass: page-about
 ---
 
