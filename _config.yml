@@ -24,6 +24,11 @@ defaults:
       layout: "service"
   - scope:
       path: ""
+      type: "announcements"
+    values:
+      layout: "announcement"
+  - scope:
+      path: ""
       type: "team"
     values:
       layout: "team"
