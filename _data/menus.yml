@@ -9,7 +9,7 @@ main:
     url: "/team/"
     weight: 4
   - name: "Contest Info"
-    url: "/about/"
+    url: "/contest_info/"
     weight: 5
   - name: "Contact"
     url: "/contact/"
