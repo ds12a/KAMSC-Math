@@ -23,9 +23,9 @@ bodyClass: "page-announcements"
     {% assign weighted_services = site.services | sort: "weight" %}
     {% for service in weighted_services %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="reason reason-summary">
-        <div class="reason-content">
-          <h2 class="reason-title">
+      <div class="announcement announcement-summary">
+        <div class="announcement-content">
+          <h2 class="announcement-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
