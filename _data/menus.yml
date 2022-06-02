@@ -1,6 +1,6 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Why"
+    url: "/why/"
     weight: 2
   - name: "Club Info"
     url: "/club_info/"
