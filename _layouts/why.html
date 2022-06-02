@@ -23,9 +23,9 @@ bodyClass: "page-why"
     {% assign weighted_services = site.services | sort: "weight" %}
     {% for service in weighted_services %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
+      <div class="reason reason-summary">
+        <div class="reason-content">
+          <h2 class="reason-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
