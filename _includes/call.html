@@ -10,6 +10,7 @@
       </a>
     {% endif %}
     {% if site.data.contact.email2 %}
+      <br>
       &nbsp;or&nbsp;
       <a href="mailto:{{ .site.data.contact.email2 }}">
         {{ site.data.contact.email2 }}
@@ -17,6 +18,7 @@
     </div>
    {% endif %}
   </div>
+  <br>
     {% if include.show_button %}
       <div class="call-box-bottom">
         <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
