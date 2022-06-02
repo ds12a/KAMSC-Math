@@ -5,8 +5,8 @@ main:
   - name: "Club Info"
     url: "/club_info/"
     weight: 3
-  - name: "Contest Info"
-    url: "/contest_info/"
+  - name: "Schedule"
+    url: "/schedule/"
     weight: 5
   - name: "Contact"
     url: "/contact/"
