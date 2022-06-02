@@ -1,0 +1,13 @@
+---
+layout: default
+bodyClass: "page-contest_faq"
+---
+
+{% if site.data.contest_faq %}
+  {% for faq in site.data.contest_faq %}
+    <div class="contest_faq">
+      <h2 class="contest_faq-title">{{ faq.question }}</h2>
+      <p>{{ faq.answer }}</p>
+    </div>
+  {% endfor %}
+{% endif %}
