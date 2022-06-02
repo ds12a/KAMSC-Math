@@ -20,15 +20,15 @@ bodyClass: "page-announcements"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% assign weighted_services = site.services | sort: "weight" %}
-    {% for service in weighted_services %}
+    {% assign weighted_announcements = site.announcements | sort: "weight" %}
+    {% for announcement in weighted_announcements %}
     <div class="col-12 col-md-6 mb-3">
       <div class="announcement announcement-summary">
         <div class="announcement-content">
           <h2 class="announcement-title">
-            <a href="{{ announcements.url | relative_url }}">{{ announcements.title }}</a>
+            <a href="{{ announcement.url | relative_url }}">{{ announcement.title }}</a>
           </h2>
-          <p>{{ announcements.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ announcement.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>
