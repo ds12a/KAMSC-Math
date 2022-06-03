@@ -25,7 +25,7 @@ First, here are some abbreviations commonly used:
 
 Additionally, here's a contest rating scale from 1 through 10 (with 10 being the hardest) to help give a relative difficulty of each contest:
 
-| Difficulty | Contest |
+| Level | Contest |
 | ----------- | ----------- |
 | 2 | AMC8 |
 |2.5 | Math League |
