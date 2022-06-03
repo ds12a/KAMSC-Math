@@ -1,15 +1,26 @@
 ---
 layout: default
-bodyClass: "page-contest_faq"
+bodyClass: "page-contest_info"
 ---
 
 {% include intro.html%}
 
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content">{{content}}</div>
+            </div>
+        </div>
+    </div>
+</div>
+
 {% if site.data.contest_faq %}
 <div class="container">
     {% for faq in site.data.contest_faq %}
-    <div class="contest_faq">
-      <h2 class="contest_faq-title">{{ faq.question }}</h2>
+    <div class="contest_info">
+      <h2 class="contest_info-title">{{ faq.question }}</h2>
       <p>{{ faq.answer }}</p>
       <hr>
     </div>
