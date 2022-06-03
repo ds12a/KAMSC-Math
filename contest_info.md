@@ -13,28 +13,25 @@ intro_image_hide_on_mobile: true
 
 First, here are some abbreviations commonly used:
 
--AMC10: American Mathematics Competition for 10th and under
+- AMC10: American Mathematics Competition for 10th and under
 
--AMC12: American Mathematics Competition for 12th and under
+- AMC12: American Mathematics Competition for 12th and under
 
--AIME: American International Mathematics Exam (top 2.5 percent from AMC10 and AMC12 qualify)
+- AIME: American International Mathematics Exam (top 2.5 percent from AMC10 and AMC12 qualify)
 
--ML: Math League
+- ML: Math League
 
--USA(J)MO: USA (Junior) Mathematical Olympiad (~200-300 students from the nation qualify and some from other countries)
+- USA(J)MO: USA (Junior) Mathematical Olympiad (~200-300 students from the nation qualify and some from other countries)
 
 Additionally, here's a contest rating scale from 1 through 10 (with 10 being the hardest) to help give a relative difficulty of each contest:
 
-2 - AMC8
-
-2.5 - Math League
-
-4 - AMC10
-
-5 - AMC12
-
-8 - AIME
-
-10 - USA(J)MO
+| Difficulty | Contest |
+| ----------- | ----------- |
+| 2 | AMC8 |
+|2.5 | Math League |
+| 4 | AMC10 |
+| 5 | AMC12 |
+| 8 | AIME |
+| 10 | USA(J)MO |
 
 *The average difficulty of the competitions that the team will compete in will range from 2.5-4.5 (with some being harder than others).*
