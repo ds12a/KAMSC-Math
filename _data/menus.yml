@@ -11,8 +11,8 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 7
-  - name: "Contest FAQ"
-    url: "/contest_faq/"
+  - name: "Contest Info"
+    url: "/contest_info/"
     weight: 6
 
 footer:
