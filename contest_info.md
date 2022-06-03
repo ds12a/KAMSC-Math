@@ -7,8 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Contest Info
-
 **The USAMO process is extremely similar to USACO, so if you are involved in coding it might help to consider the similarities between the two contests when accessing the difficulty level of various math contests**. While the USACO process goes: USACO Bronze, USACO Silver, USACO Gold, USACO Platinum, and then selection for the team, the USAMO process goes: AMC8, AMC10/12, AIME, USA(J)MO, and then selection for the team. Thus, you can equate the difficulty level of USACO Bronze to AMC8, USACO Silver to AMC10/12, etc. 
 
 First, here are some abbreviations commonly used:
