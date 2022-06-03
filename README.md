@@ -1,6 +1,7 @@
 # Jekyll Serif Theme
 
-**NOTE: A great place to find illustrations: https://undraw.co/illustrations USE COLOR CODE: #437677**
+**NOTE (6/2): A great place to find illustrations: https://undraw.co/illustrations USE COLOR CODE: #437677**
+
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
 [Live Demo](https://jekyll-serif.netlify.app/) | 
