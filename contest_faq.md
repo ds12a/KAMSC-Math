@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Contest Info
 
-Some extremely interesting information about the contests and a FAQ.
+Some extremely interesting information about the contests and frequently asked questions.
