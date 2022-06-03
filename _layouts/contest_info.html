@@ -17,11 +17,12 @@ bodyClass: "page-contest_info"
 
 {% if site.data.contest_faq %}
 <div class="container">
+    <h1> FAQ </h1>
+    <hr>
     {% for faq in site.data.contest_faq %}
     <div class="contest_info">
       <h2 class="contest_info-title">{{ faq.question }}</h2>
       <p>{{ faq.answer }}</p>
-      <hr>
     </div>
     {% endfor %}
 </div>
