@@ -1,7 +1,7 @@
 ---
 title: Contest Info
 layout: contest_info
-description: Contest Info
+description: Some information about math competitions and FAQ.
 intro_image: "images/illustrations/undraw_faq_re_31cw.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
