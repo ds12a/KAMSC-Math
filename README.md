@@ -1,11 +1,12 @@
-<div>
-  <img align="right" src="/images/logo/logo1.svg" alt="KAMSC Math Logo" width="200"/> 
-  <h1> KAMSC Math</h1>
-</div>
+<img align="right" src="/images/logo/logo1.svg" alt="KAMSC Math Logo" width="300"/> 
+
+# KAMSC Math
 
 [![Build and Deploy](https://github.com/ds12a/KAMSC-Math/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ds12a/KAMSC-Math/actions/workflows/pages/pages-build-deployment)
 
 The home page for the KAMSC Math team.
+
+Uses free Jekyll theme by www.zerostatic.io
 
 ### Icons/Illustrations from:
 
