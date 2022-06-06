@@ -15,9 +15,11 @@ https://undraw.co/
 
 ## To Do:
 - [ ] Schedule content
+- [ ] Finish Contest Info Page (Resources)
 - [x] Approve/Revise logo
 - [x] Figure out what to do with "Features"
 - [ ] FAQ
 - [ ] Contact (cleanup?)
 - [ ] **Cleanup**
 - [ ] Forgotten stuff
+
