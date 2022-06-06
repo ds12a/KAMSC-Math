@@ -7,7 +7,11 @@
 
 The home page for the KAMSC Math team.
 
-NOTE: A great place to find illustrations: https://undraw.co/illustrations USE COLOR CODE: #437677 (This is the site's theme color)
+### Icons/Illustrations from:
+
+https://www.reshot.com/
+
+https://undraw.co/
 
 ## To Do:
 - [ ] Schedule content
