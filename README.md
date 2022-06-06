@@ -16,7 +16,7 @@ https://undraw.co/
 ## To Do:
 - [ ] Schedule content
 - [x] Approve/Revise logo
-- [ ] Figure out what to do with "Features"
+- [x] Figure out what to do with "Features"
 - [ ] FAQ
 - [ ] Contact (cleanup?)
 - [ ] **Cleanup**
