@@ -1,3 +1,4 @@
+![KAMSC Math Logo](/images/logo/logo1.svg)
 # KAMSC Math
 
 The home page for the KAMSC Math team.
