@@ -3,7 +3,7 @@
   <h1> KAMSC Math</h1>
 </div>
 
-![Build](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+[![Build and Deploy](https://github.com/ds12a/KAMSC-Math/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ds12a/KAMSC-Math/actions/workflows/pages/pages-build-deployment)
 
 The home page for the KAMSC Math team.
 
