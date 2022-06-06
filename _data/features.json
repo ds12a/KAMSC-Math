@@ -1,7 +1,7 @@
 [
   {
-    "title": "Test",
-    "description": "Does this work?",
+    "title": "Challenging Problems",
+    "description": "We provide interesting and challenging problems that will feed your interest in mathematics.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Team Bonding",
+    "description": "Great time to meet people with similar interests and make new friends.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Fun",
+    "description": "Have fun applying mathematics in math competitions featuring interesting and challenging problems.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
