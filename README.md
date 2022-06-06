@@ -11,7 +11,7 @@ NOTE: A great place to find illustrations: https://undraw.co/illustrations USE C
 
 ## To Do:
 - [ ] Schedule content
-- [ ] Approve/Revise logo
+- [x] Approve/Revise logo
 - [ ] Figure out what to do with "Features"
 - [ ] FAQ
 - [ ] Contact (cleanup?)
