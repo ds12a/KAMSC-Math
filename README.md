@@ -3,6 +3,8 @@
   <h1> KAMSC Math</h1>
 </div>
 
+![Build](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
 The home page for the KAMSC Math team.
 
 NOTE: A great place to find illustrations: https://undraw.co/illustrations USE COLOR CODE: #437677 (This is the site's theme color)
