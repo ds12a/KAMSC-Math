@@ -19,7 +19,7 @@ https://undraw.co/
 - [ ] Finish Contest Info Page (Resources)
 - [x] Approve/Revise logo
 - [x] Figure out what to do with "Features"
-- [ ] FAQ
+- [x] FAQ
 - [x] Contact (cleanup?)
 - [ ] **Cleanup**
 - [ ] Forgotten stuff
