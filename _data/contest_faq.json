@@ -1,22 +1,17 @@
 [
   {
-    "question": "Question?",
-    "answer": "Answer!",
+    "question": "How can I prepare for these contests?",
+    "answer": "A great way to prepare for these contests is to mock past contests. You can find past problems and their solutions for these contests at <a href='https://artofproblemsolving.com/wiki/index.php/AMC_Problems_and_Solutions'> AOPS </a>.",
     "id": "1"
   },
   {
-    "question": "Question?",
-    "answer": "Answer!",
+    "question": "How difficult are these contests?",
+    "answer": "These contests are harder than the typical school curriculum.",
     "id": "2"
   },
   {
-    "question": "Question?",
-    "answer": "Answer!",
+    "question": "When do these contests take place?",
+    "answer": "The AMC's take place during November. You can find specific dates at <a href='https://www.maa.org/math-competitions/about-amc/events-calendar'>the MAA website</a>.",
     "id": "3"
-  },
-  {
-    "question": "Question?",
-    "answer": "Answer!",
-    "id": "4"
   }
 ]
