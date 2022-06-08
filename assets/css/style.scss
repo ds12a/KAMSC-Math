@@ -11,6 +11,10 @@ $white-offset: #cfe2f3;
 $steel: #5c5a5a;
 
 // Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: lighten($primary, 10%);
+$link-hover-decoration: none;
 
 // Fonts
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
