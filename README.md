@@ -20,7 +20,7 @@ https://undraw.co/
 - [x] Approve/Revise logo
 - [x] Figure out what to do with "Features"
 - [ ] FAQ
-- [ ] Contact (cleanup?)
+- [x] Contact (cleanup?)
 - [ ] **Cleanup**
 - [ ] Forgotten stuff
 
