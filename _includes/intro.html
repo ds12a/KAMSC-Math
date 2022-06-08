@@ -3,7 +3,12 @@
     <div class="row justify-content-start">
       <div class="col order-md-1">
         <h1> {{ page.title }} </h1>
+        {% if page.description %}
         {{ page.description }}
+        {% endif %}
+        {% unless page.description %}
+        {{page.content}}
+        {% endunless %}
       </div>
       {% if page.intro_image %}
       <div class="col order-1 order-md-2 position-relative">
