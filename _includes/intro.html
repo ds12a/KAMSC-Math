@@ -1,13 +1,13 @@
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col order-md-1 content">
+      <div class="col order-md-1">
         <h1> {{ page.title }} </h1>
         {% if page.description %}
         {{ page.description }}
         {% endif %}
         {% unless page.description %}
-        {{page.content}}
+        <div class="content">{{page.content}}</div>
         {% endunless %}
       </div>
       {% if page.intro_image %}
