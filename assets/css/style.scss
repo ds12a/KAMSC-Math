@@ -17,8 +17,10 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: none;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+$font-family-base: 'Roboto Slab', serif, -apple-system;
+$font-family-heading: 'Open Sans', sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
