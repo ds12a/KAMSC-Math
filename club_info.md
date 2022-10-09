@@ -10,9 +10,7 @@ Practices will be held weekly along with competitions that will be spread out th
 
 # Team Selection 
 
-Because a large majority of the math competitions that the team will participate in require teams of up to 4-6 ppl, our overall team will be separated into A and B teams (and more depending on size). The KAMSC A and KAMSC B teams will both be chosen mainly through AMC10 / AMC12 scores (however practices are also taken into consideration). Because the AMC12 is noticeably more difficult than the AMC10, club leaders will take into account this difference and weight the scores accordingly. However, the difficulty of qualifying for AIME is the same regardless of whether students take the AMC10 or AMC12. Because so few students qualify for the AIME, all AIME qualifiers are then automatically placed on the A team. 
-
-Please note that both A and B teams will both be able to participate in all the same contests, with the only difference being who your team members are (as well as your team name). Certain competitions might require the A and B teams to compete in separate divisions, however both teams will still compete either ways. 
+If, at any point, it is required to sort out a ranking or select certain students / teams, selection will be done based off of AMC10/12 scores. Certain competitions might require groups of teams (for example they might require teams of size 4), limit us to a certain number of teams, or require some sort of ranking of our teams.
 
 # Commitment
 
